@@ -31,15 +31,17 @@
 }
 
 .django-ace-max_min {
-    float: right;
+    /*     David Gleba */
+    float: left;
     background-position:5px 5px;
     background-repeat:no-repeat;
     padding: 5px;
 
     background-image:url(img/expand.png);
     display:block;
-    height: 16px;
-    width: 16px;
+    /*     David Gleba */
+    height: 19px;
+    width: 19px;
 }
 
 
